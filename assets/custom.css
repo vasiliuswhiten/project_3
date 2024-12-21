@@ -1,0 +1,40 @@
+body {
+    font-family: 'Inter', sans-serif; /* Укажите шрифт Inter */
+}
+
+input {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    display: block; /* Для лучшего выравнивания */
+}
+
+/* Стили для кнопки */
+button {
+    font-family: 'Inter', sans-serif; /* Укажите шрифт Inter */
+    font-size: 14px; /* Размер шрифта */
+    padding: 10px 15px; /* Отступы для кнопки */
+    background-color: #007BFF; /* Цвет фона */
+    color: white; /* Цвет текста */
+    border: none; /* Без границы */
+    border-radius: 4px; /* Закругленные углы */
+    cursor: pointer; /* Курсор при наведении */
+}
+
+button:hover {
+    background-color: #0056b3; /* Цвет фона при наведении */
+}
+
